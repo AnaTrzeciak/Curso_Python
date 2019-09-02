@@ -1,5 +1,5 @@
 #ecoding:utf-8
-#Crie um script em Python que pede uma frase (string) ao usuário e em seguida um#caractere. Em seguida, seu script deve dizer quantas vezes aquele caractere apa#receu na frase digitar. Use função com parâmetros.
+#Crie um script em Python que pede uma frase (string) ao usuário e em seguida um caractere. Em seguida, seu script deve dizer quantas vezes aquele caractere apareceu na frase digitar. Use função com parâmetros.
 
 def conta_caractere(texto,char):
   count=0
