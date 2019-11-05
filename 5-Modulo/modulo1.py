@@ -1,5 +1,6 @@
 #ecoding:utf-8
 #Programa criado em 14/09/2019 por Ana Maria
+#importando arquivo calculadora.py que esta na mesma pasta.
 
 import calculadora
 
