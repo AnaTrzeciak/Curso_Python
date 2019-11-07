@@ -1,0 +1,21 @@
+Operações com listas:
+
+1- Deletar item de uma lista: del item
+sintaxe: del nome_da_lista[indice do item]
+
+2- Concatenar listas (unir listas): +
+sintaxe: nome_da_lista = nome_lista1 + nome_lista2
+
+3- Repetição de listas: *
+sintaxe: nome_lista = nome_lista*3  (repetiu a mesma lista 3x)
+
+-inserir item no índice x: lista.insert(x, item)
+-remover item: lista.remove(item) (ps: retira a primeira ocorrência)
+-inverter uma lista: reverse()
+-ordena a lista em ordem crescente ou alfabética: lista.sort()
+-apagar uma lista: clear()
+-copiar uma lista: copy()
+-contar quantas vezes um item aparece: count(x)
+-retirar um elemento específico da linha: pop(x)
+
+mais em: https://docs.python.org/3/tutorial/datastructures.html
