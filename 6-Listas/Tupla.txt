@@ -1,0 +1,9 @@
+Curso Python Progressivo: Tuplas
+
+Tuplas também são sequências, mas são imutáveis. Logo, uma vez criada e declarada, você não pode fazer mais nenhum alteração nela.
+Você deve usar uma tupla sempre que tiver valores, items, que nunca serão mudados, serão constantes.
+
+O que define uma tupla é um par de colchetes: (), cada dado dentro da tupla é chamado de item, e cada item é separado por vírgula.
+
+Se convenciona que listas são para item homogêneos (tudo inteiro, tudo string etc).
+Já as tuplas são mais usadas para dados heterogêneos, ou seja, items de string e número tudo junto na mesma tupla (como o nome e as notas de um aluno).
